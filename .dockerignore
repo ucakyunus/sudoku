@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+yarn-error.log
+.git
+.gitignore
+README.md
+.env
+.env.*
+dist
+.vscode
+.idea
+*.log
+.DS_Store
+coverage
+.nyc_output
+cypress/videos
+cypress/screenshots
